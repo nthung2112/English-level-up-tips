@@ -1,8 +1,8 @@
-谨以此献给我曾今的挚爱 `W.`
+Tôi muốn dành tặng điều này cho tình yêu đích thực của tôi, `W.`
 
 > 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
 
-# 项目介绍
+# Giới thiệu dự án
 
 An advanced guide to learn English which might benefit you a lot.
 

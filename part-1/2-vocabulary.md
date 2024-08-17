@@ -1,34 +1,33 @@
-# 单词篇
+# Phần từ vựng
 
-## 单词篇
+## Phần từ vựng
 
-单词是构成一门语言的基石。当你学习一门语言的时候，一定要从基础开始，没有基础，你就无法更好更快更轻松地学习。
-想要跳过单词进行学习，会让自己在今后的学习中花费（更准确的说应该是**浪费**）更多的时间，循序渐进，才是学习英语的好方法。
-**词汇量具有从量变到质变的显著特征，当你掌握的单词数量达到一个分水岭的量之后你会发现学习英语变得异常轻松起来。
-得益于语境的帮助，你可以推断出大部分生词的意思，从而可以利用更优秀的原版英语学习材料让学英语如虎添翼，比如：经济学人，英文原著**。
-首先来看看一下英语单词的分布：
+Từ vựng là nền tảng cấu thành của một ngôn ngữ. Khi bạn học một ngôn ngữ, bạn nhất định phải bắt đầu từ những kiến thức cơ bản, nếu không có cơ bản, bạn sẽ không thể học tốt hơn, nhanh hơn và dễ dàng hơn. Việc muốn bỏ qua từ vựng để học sẽ khiến bạn mất nhiều thời gian hơn (chính xác hơn là **lãng phí**) trong quá trình học sau này. Học từng bước một là cách học tiếng Anh tốt nhất.
+**Vốn từ vựng có đặc điểm rõ ràng từ sự biến đổi về lượng đến sự biến đổi về chất. Khi bạn nắm vững một lượng từ vựng nhất định, bạn sẽ thấy việc học tiếng Anh trở nên cực kỳ dễ dàng.
+Nhờ vào ngữ cảnh, bạn có thể suy luận được ý nghĩa của hầu hết các từ mới, từ đó có thể sử dụng các tài liệu học tiếng Anh nguyên bản xuất sắc hơn để nâng cao hiệu quả học tiếng Anh, chẳng hạn như: The Economist, sách gốc tiếng Anh**.
+Trước tiên, hãy cùng xem phân bố từ vựng tiếng Anh:
 
 ![OCE Artboard@2x.png](../assets/OCE%20Artboard@2x.png)
 
-> 原图片来源于牛津英文语料库（OEC），我用 sketch 对照着做了一份，sketch 文件在 repo 的 assets 文件夹内
+> Hình ảnh gốc được lấy từ Từ điển Tiếng Anh Oxford (OEC), tôi đã đối chiếu và làm một bản bằng sketch, file sketch nằm trong thư mục assets của repo
 
-从这张图可以得出的简单信息是：
+Từ hình ảnh này, chúng ta có thể rút ra một số thông tin đơn giản như sau:
 
-- 1000 词汇量就能让你理解约 75%的英语内容
-- 7000 词汇量是一个关键的分水岭（只需 7 千单词就能理解接近 90%的内容是不是很激动？）
-- 背单词的回报率是递减的
+- Chỉ cần có 1000 từ vựng, bạn đã có thể hiểu khoảng 75% nội dung tiếng Anh.
+- 7000 từ vựng là một cột mốc quan trọng (chỉ cần 7000 từ vựng là bạn có thể hiểu gần 90% nội dung, không phải là rất phấn khởi sao?)
+- Hiệu quả của việc học từ vựng sẽ giảm dần theo thời gian
 
-那就先定个小目标：先试试 7000 个单词。拆解一下，每天 40 个，在不遗忘的理想情况下只需要 175 天！
+Vậy hãy đặt một mục tiêu nhỏ trước: thử đạt 7000 từ vựng. Hãy chia nhỏ, mỗi ngày 40 từ, trong điều kiện lý tưởng không quên từ nào thì chỉ cần 175 ngày!
 
-### 视觉 vs 听觉
+### Thị giác vs Thính giác
 
-在开始扩充词汇量之前，希望你能花点时间了解自己的学习特点。视觉型学习者与听觉型学习者，在学习英语的方法上有着较大的差异。
-视觉型学习者通过将单词的 _视觉化_ 的方式去记忆单词，比如将单词与 _图像/视频_ 绑定，甚至是将 单词本身 看做是一个 _视觉图形/符号_ ，有些视觉型学习者可以把单词写几遍就记住了。
-视觉对于增强人的记忆有着神奇的效果，同时也有一定的负面作用。
-这体现在当你看到某个图像的时候可能迅速的联想到某个单词，可是当你脱离这个图像的时候你居然完全不知道这个单词是什么意思。
-（有很大一部分背单词的软件采用图片卡的形式，当你对着软件给出的图片进行复习时，你会觉得你记住了这个单词。然而实际情况是你记住了这个图片，这个图片与单词之间还有一层的映射关系，你过多的将注意力放在了图片上面，从而忽略了图片本身想要表达的单词。）
-我想给出建议是，视觉化背单词应该采用 _抽象_ 的方法，将单词对应的视觉信息抽象成你理解的事物。
-举个例子:'cat' => '猫';单词软件会给你提供某个具体的关于猫的图片，如
+Trước khi bắt đầu mở rộng vốn từ vựng, hy vọng bạn có thể dành chút thời gian để tìm hiểu về đặc điểm học tập của bản thân. Người học bằng thị giác và người học bằng thính giác có sự khác biệt khá lớn trong phương pháp học tiếng Anh.
+Người học bằng thị giác ghi nhớ từ vựng thông qua việc _hình ảnh hóa_ từ ngữ, ví dụ như liên kết từ với _hình ảnh/video_, thậm chí coi từ đó như một _hình ảnh/ký hiệu_ thị giác, một số người học bằng thị giác có thể ghi nhớ từ vựng chỉ bằng cách viết đi viết lại từ đó vài lần.
+Thị giác có tác dụng kỳ diệu trong việc tăng cường trí nhớ của con người, nhưng cũng có một số tác động tiêu cực nhất định.
+Điều này thể hiện ở việc khi bạn nhìn thấy một hình ảnh nào đó, bạn có thể nhanh chóng liên tưởng đến một từ nào đó, nhưng khi bạn không có hình ảnh đó, bạn hoàn toàn không biết nghĩa của từ này là gì.
+(Một số phần mềm học từ vựng sử dụng thẻ hình ảnh, khi bạn ôn tập theo hình ảnh được phần mềm cung cấp, bạn sẽ nghĩ rằng mình đã nhớ được từ đó. Tuy nhiên, thực tế là bạn đã nhớ hình ảnh đó, còn hình ảnh và từ vựng có mối quan hệ liên tưởng, và bạn đã tập trung quá nhiều vào hình ảnh mà bỏ qua ý nghĩa từ vựng mà hình ảnh muốn truyền tải.)
+Lời khuyên của tôi là, việc học từ vựng thông qua hình ảnh nên được thực hiện theo cách _trừu tượng hóa_, biến thông tin hình ảnh liên quan đến từ thành một sự vật mà bạn hiểu.
+Ví dụ: 'cat' => 'con mèo'; phần mềm học từ sẽ cung cấp cho bạn một hình ảnh cụ thể về con mèo như
 
 ![cat.jpg](https://ooo.0o0.ooo/2017/06/01/592f5682b7c4e.jpg)
 

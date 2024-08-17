@@ -10,10 +10,7 @@
       content="An advanced guide to learn English which might benefit you a lot."
     />
     <meta name="author" content="byoungd" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
     <!-- docsify-themeable -->
     <link
       rel="stylesheet"
@@ -27,14 +24,8 @@
     />
     <!-- End -->
     <!-- begin for docsify katex -->
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.css"
-    />
-    <script
-      defer
-      src="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.js"
-    ></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.css" />
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/katex.min.js"></script>
     <!-- the version of marked must between 2.1.0 -->
     <script src="https://cdn.jsdelivr.net/npm/marked@4"></script>
     <!-- End -->
@@ -44,10 +35,7 @@
       href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css"
     />
     <!-- mermaid -->
-    <link
-      rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"
-    />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css" />
     <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <!-- End -->
     <!-- begin for markmap -->
@@ -72,38 +60,36 @@
       markmapSvg = [];
       const transformer = new markmap.Transformer();
       window.$docsify = {
-        name: "content", // 目录的标题
-        repo: "https://github.com/byoungd/English-level-up-tips", // 右上角的挂件
-        loadSidebar: "SUMMARY.md",
+        name: 'content', // 目录的标题
+        repo: 'https://github.com/nthung2112/English-level-up-tips', // 右上角的挂件
+        loadSidebar: 'SUMMARY.md',
         alias: {
-          "/.*/SUMMARY.md": "/SUMMARY.md",
+          '/.*/SUMMARY.md': '/SUMMARY.md',
         },
         subMaxLevel: 3, // 子目录最大层级, 有助于显示 markdown 的层级
         auto2top: true, // 自动跳转至顶部
         markdown: {
           renderer: {
             code: function (code, lang) {
-              if (lang === "mermaid") {
+              if (lang === 'mermaid') {
                 return (
                   '<div class="mermaid" style="background:#E1EFD9" >' +
-                  mermaid.render("mermaid-svg-" + num++, code) +
-                  "</div>"
+                  mermaid.render('mermaid-svg-' + num++, code) +
+                  '</div>'
                 );
-              } else if (lang == "markmap") {
+              } else if (lang == 'markmap') {
                 const { root: data } = transformer.transform(code);
                 let currentNum = num;
                 markmapSvg.push(function () {
-                  let elem = document.getElementById(
-                    "markmap-svg-" + currentNum
-                  );
+                  let elem = document.getElementById('markmap-svg-' + currentNum);
                   const mm = new markmap.Markmap(elem, null);
                   if (data) {
                     mm.setData(data);
                     const { minX, maxX, minY, maxY } = mm.state;
                     const naturalWidth = maxY - minY;
                     const naturalHeight = maxX - minX;
-                    elem.style.width = naturalWidth + "px";
-                    elem.style.height = naturalHeight + "px";
+                    elem.style.width = naturalWidth + 'px';
+                    elem.style.height = naturalHeight + 'px';
                     mm.fit(); // always fit for the first render
                   }
                 });
@@ -119,14 +105,12 @@
               num = 0;
               markmapSvg = [];
               let url =
-                "https://github.com/byoungd/English-level-up-tips/blob/master/" +
-                vm.route.file;
-              let editHtml = "[:memo: EDIT DOCUMENT](" + url + ")\n";
+                'https://github.com/nthung2112/English-level-up-tips/blob/master/' + vm.route.file;
+              let editHtml = '[:memo: EDIT DOCUMENT](' + url + ')\n';
               return (
                 editHtml +
-                html.replace(
-                  /<a\s+(?:[^>]*?\s+)?href\s*=\s*(["'])#(.*?)\1.*?>/g,
-                  (m, g1, g2) => m.replace(g2, vm.route.path + "#" + g2)
+                html.replace(/<a\s+(?:[^>]*?\s+)?href\s*=\s*(["'])#(.*?)\1.*?>/g, (m, g1, g2) =>
+                  m.replace(g2, vm.route.path + '#' + g2)
                 )
               );
             });
@@ -151,8 +135,8 @@
           // this will overwrite the marked
           // here `let newMarked = marked;` will not right
           const mathExtension = {
-            name: "math",
-            level: "inline",
+            name: 'math',
+            level: 'inline',
             start(src) {
               let index = src.match(/\$/)?.index;
               return index;
@@ -163,27 +147,27 @@
               let match;
               if ((match = blockRule.exec(src))) {
                 return {
-                  type: "math",
+                  type: 'math',
                   raw: match[0],
                   text: match[1].trim(),
-                  mathLevel: "block",
+                  mathLevel: 'block',
                 };
               } else if ((match = inlineRule.exec(src))) {
                 return {
-                  type: "math",
+                  type: 'math',
                   raw: match[0],
                   text: match[1].trim(),
-                  mathLevel: "inline",
+                  mathLevel: 'inline',
                 };
               }
             },
             renderer(token) {
-              if (token.mathLevel === "block") {
+              if (token.mathLevel === 'block') {
                 return katex.renderToString(token.text, {
                   throwOnError: false,
                   displayMode: true,
                 });
-              } else if (token.mathLevel === "inline") {
+              } else if (token.mathLevel === 'inline') {
                 return katex.renderToString(token.text, {
                   throwOnError: false,
                   displayMode: false,
@@ -224,7 +208,7 @@
           return newMarked.parse;
 
           function isFn(obj) {
-            return typeof obj === "function";
+            return typeof obj === 'function';
           }
         }
       })();
@@ -245,8 +229,8 @@
     <script>
       addBackToTop({
         diameter: 56,
-        backgroundColor: "rgb(255, 82, 82)",
-        textColor: "#fff",
+        backgroundColor: 'rgb(255, 82, 82)',
+        textColor: '#fff',
       });
     </script>
   </body>
