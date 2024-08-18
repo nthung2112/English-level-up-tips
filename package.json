@@ -1,6 +1,7 @@
 {
   "name": "english-level-up-tips",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "English level up tips",
   "main": "index.js",
   "scripts": {

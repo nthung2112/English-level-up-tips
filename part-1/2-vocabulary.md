@@ -1,4 +1,4 @@
-# Phần từ vựng
+# Từ vựng
 
 ## Phần từ vựng
 

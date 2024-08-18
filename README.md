@@ -92,6 +92,6 @@ Tuyên bố từ chối trách nhiệm: **Hướng dẫn này không chấp nh�
 
 Hãy sử dụng số tiền bạn dự định dành cho việc tri ân để mua cho mình những cuốn sách hay.
 
-    Học tập không phải là niềm vui tốt nhất của cuộc sống sao?
+> Học tập không phải là niềm vui tốt nhất của cuộc sống sao?
 
 > Cheers and Enjoy :)
