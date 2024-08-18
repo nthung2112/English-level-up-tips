@@ -1,0 +1,16 @@
+{
+  "name": "english-level-up-tips",
+  "version": "1.0.0",
+  "description": "English level up tips",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "next",
+    "@vuepress/theme-default": "next",
+    "vuepress": "next",
+    "vue": "^3.4.38"
+  }
+}
