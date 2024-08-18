@@ -1,53 +1,53 @@
 Tôi muốn dành tặng điều này cho tình yêu đích thực của tôi, `W.`
 
-> 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
+> Mỗi người chúng ta đều sống trong quá khứ của chính mình. Người ta có thể mất một phút để biết một người, mất một giờ để thích một người, mất một ngày để yêu một người, nhưng cuối cùng lại mất cả đời để quên một người.
 
 # Giới thiệu dự án
 
 An advanced guide to learn English which might benefit you a lot.
 
-[离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)。
+[Hướng dẫn học tiếng Anh kỳ lạ/Hướng dẫn học tiếng Anh](https://github.com/byoungd/English-level-up-tips)。
 
-## 背景
+## Bối cảnh
 
-你好啊朋友，欢迎来到[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)。
+Xin chào bạn, chào mừng bạn đến với [Hướng dẫn học tiếng Anh kỳ lạ](https://github.com/byoungd/English-level-up-tips)。
 
-当你的目光与这些文字相遇，我衷心希望，这不仅仅是一次攻克英语的艰苦征程，更是一场开启智慧之门的奇妙冒险。愿这方寸纸墨，化作你我心灵共鸣的琴弦，弹奏出语言学习的天籁妙音。
+Khi bạn nhìn thấy những dòng chữ này, tôi hy vọng chân thành rằng, đây không chỉ là một hành trình gian nan chinh phục tiếng Anh, mà còn là một cuộc phiêu lưu kỳ diệu mở ra cánh cửa trí tuệ. Mong rằng những trang giấy này sẽ trở thành sợi dây kết nối tâm hồn chúng ta, tạo nên những giai điệu tuyệt vời trong việc học ngôn ngữ.
 
-时间回到 2017 年 7 月初，备考托福的女神`W.`问了我一个问题：**如何高效学习英语？**
+Quay trở lại thời điểm đầu tháng 7 năm 2017, nữ thần chuẩn bị thi TOEFL `W.` đã hỏi tôi một câu: **Làm thế nào để học tiếng Anh hiệu quả?**
 
-在我思考如何回答这个问题时，回想起我在大四一学期一次性考过 26 门课的经验（其中重修 19 门，当前学期 7 门），再加上本人`英语` 和 `语文` 两门学科曾**侥幸**在高考时摘得省第一（江苏卷），或许我勉强有资格提供一些`高效学习`的`小技巧`，权当抛砖引玉。
+Khi tôi suy nghĩ về cách trả lời câu hỏi này, tôi nhớ lại kinh nghiệm của mình trong một học kỳ năm cuối khi tôi đã vượt qua 26 môn học trong một lần (trong đó có 19 môn học lại và 7 môn trong học kỳ hiện tại), cộng thêm hai môn `tiếng Anh` và `ngữ văn` mà tôi từng **may mắn** đạt hạng nhất tỉnh trong kỳ thi đại học (kỳ thi của tỉnh Giang Tô), có lẽ tôi có đủ tư cách để cung cấp một số `mẹo nhỏ` về `học tập hiệu quả`, dù chỉ để mở đầu cho một cuộc thảo luận.
 
-与她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现了她的学习方法存在一些`不可取之处`。
+Sau khi trao đổi với cô ấy về những kinh nghiệm học tập, tôi ngạc nhiên trước niềm đam mê học tập của cô ấy, đồng thời cũng nhận thấy một số `khuyết điểm` trong phương pháp học của cô ấy.
 
-于是我写了一篇简单的文章零散地介绍了下我学习英语的心得体会，几天后她告诉我，希望我可以将这些学习经验稍加整理，分享给更多有需要的人。
+Vì vậy, tôi đã viết một bài viết đơn giản, rời rạc để giới thiệu những suy nghĩ và kinh nghiệm của mình về việc học tiếng Anh, vài ngày sau cô ấy nói với tôi rằng cô ấy hy vọng tôi có thể chỉnh sửa lại những kinh nghiệm học tập này và chia sẻ với nhiều người cần hơn.
 
-在此之前，我并不知道原来有那么多的同学在学习英语的这件事上磕磕绊绊。
+Trước đó, tôi không biết rằng có rất nhiều người bạn gặp khó khăn trong việc học tiếng Anh.
 
-他们甚至从未想过：**英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样**。
+Họ thậm chí chưa bao giờ nghĩ rằng: **Tiếng Anh là một ngôn ngữ, việc học nó nên là một điều tự nhiên, giống như cách chúng ta tự nhiên học tiếng Trung vậy**.
 
-我由衷地希望大家能**热爱**学习英语这件事情，如果做不到，那就尝试着去发现这件事情的乐趣亦或是收益。请允许我奉上乔布斯的一段话(原话指的是工作，表达的意思却是相似的)：
+Tôi chân thành mong rằng mọi người có thể **yêu thích** việc học tiếng Anh, nếu không thể làm được điều đó, thì hãy cố gắng tìm thấy niềm vui hoặc lợi ích từ việc này. Hãy để tôi trích dẫn một đoạn của Steve Jobs (mặc dù ông ấy đang nói về công việc, nhưng ý nghĩa vẫn tương tự):
 
 The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
 
-> > > 成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。
+> > > Thành công lớn nhất chỉ có thể đạt được bằng cách yêu thích công việc của mình. Nếu bạn chưa tìm thấy công việc mà mình yêu thích, hãy tiếp tục tìm kiếm, đừng từ bỏ. Hãy lắng nghe trái tim mình, một ngày nào đó bạn sẽ tìm thấy nó.
 
-**热爱之于学习**，同样如此。
+**Niềm đam mê đối với việc học** cũng tương tự như vậy.
 
-在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，**真心希望本指南能给你带来一点小小的帮助**。
+Trong hướng dẫn này, tôi sẽ cố gắng kết hợp quan điểm chủ quan của mình với một số cơ sở khoa học nhất định để cung cấp cho bạn một hướng dẫn nâng cao tiếng Anh chi tiết. **Chân thành hy vọng rằng hướng dẫn này có thể mang lại cho bạn một chút trợ giúp.**
 
-## 英语水平等级
+## Các cấp độ tiếng Anh
 
 ![CERF@2x.png](assets/CEFR@2x.png)
 
-> 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
+> Sơ đồ tham khảo [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
-## 特色
+## Tính năng
 
 ![Feature@2x.png](assets/Feature.png)
 ![How@2x.png](assets/How.png)
 
-## 章节
+## Mục lục
 
 [![understanding](assets/understanding@2x.png)](part-1/1-understanding.md)
 
@@ -63,52 +63,35 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 [![Others@2x.png](assets/Others@2x.png)](part-2/x-misc.md)
 
-## 感谢
+## Tri ân
 
-- 感谢所有关心以及为这份指南做出贡献的人 ❤️
+- Cảm ơn mọi người đã quan tâm và đóng góp cho hướng dẫn này ❤️
 
-## 番外篇
+## Đọc trực tuyến
 
-聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
+- GitHub Pages [English-level-up-tips](https://nthung2112.github.io/English-level-up-tips/#/)
+- GitBook [English-level-up-tips](https://nthung2112.gitbook.io/english-level-up-tips/)
 
-[![](/assets/love.jpg)](https://github.com/byoungd/how-to-find-love)
+## Sao chép
 
-## 离谱的抖音
+Khi sao chép hướng dẫn này, vui lòng ghi rõ tác giả và liên kết GitHub, cảm ơn bạn!
 
-离谱在尝试着做抖音，目前发布了大量关于夜场美女的视频(为了快速涨粉，请见谅)和一些废话。
+## License
 
-[如果你对我感兴趣，可以关注我的抖音号](https://www.douyin.com/user/self?modal_id=7390075436048469275): `72581209403`
-
-或使用抖音扫码关注我
-
-[![](/assets/dyqr.jpg)](https://www.douyin.com/user/self?modal_id=7390075436048469275)
-
-## 在线阅读
-
-- 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
-- GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
-- GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
-
-## 转载声明
-
-转载本指南，请注明作者与 GitHub 链接，谢谢！
-
-## 协议/License
-
-本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。
+Tác phẩm này được cấp phép theo Giấy phép Quốc tế Creative Commons Ghi công-Phi thương mại 4.0.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
 
-## 特别声明
+## Đặc biệt
 
-有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
+Nhiều người bạn nhiệt tình đã viết thư cho biết rằng hướng dẫn này được viết rất cẩn thận và nó sẽ hữu ích cho việc học tiếng Anh của họ. Tôi hy vọng họ có thể đánh giá cao nó.
 
-**命运已经给了离谱诸多额外的馈赠，便不再需要其他奖赏**。
+**Số mệnh đã tặng thêm rất nhiều quà cho weibo nên không cần phần thưởng khác**.
 
-统一声明：**本指南不接受也不需要金钱上的赞助**。
+Tuyên bố từ chối trách nhiệm: **Hướng dẫn này không chấp nhận hoặc yêu cầu tài trợ tài chính**.
 
-请把你那些原本想用来赞赏的零钱给自己买几本好书。
+Hãy sử dụng số tiền bạn dự định dành cho việc tri ân để mua cho mình những cuốn sách hay.
 
-    学习，难道不是人生最棒的乐趣么？
+    Học tập không phải là niềm vui tốt nhất của cuộc sống sao?
 
 > Cheers and Enjoy :)
