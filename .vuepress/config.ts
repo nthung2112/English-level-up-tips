@@ -4,6 +4,7 @@ import { defineUserConfig } from 'vuepress';
 
 export default defineUserConfig({
   base: '/English-level-up-tips/',
+  dest: `./dist`,
   title: 'English Level Up',
   description: 'English level up tips',
   head: [

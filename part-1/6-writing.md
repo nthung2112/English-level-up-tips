@@ -2,15 +2,15 @@
 
 Chào bạn, chào mừng đến với Hướng Dẫn Học Tiếng Anh Điên Rồ. Đây là một dự án mà tôi bắt đầu vào năm 2017, với mục đích chia sẻ kinh nghiệm và kỹ năng của tôi trong việc cải thiện trình độ tiếng Anh. Loạt bài này luôn được nhiều người yêu thích, thậm chí khiến tôi trở thành một `kỹ sư markdown với nhiều sao`, nhưng vì sự non nớt và bận rộn với các hoạt động như tán gái, khởi nghiệp, và thể hiện bản thân, tôi gần như ngừng cập nhật sau năm 2019.
 
-![Khách sạn nghỉ dưỡng](/assets/hotel.jpg)
+![Khách sạn nghỉ dưỡng](../assets/hotel.jpg)
 
 Thực ra, tôi đã định từ bỏ loạt bài này, vì tôi cảm thấy mình không đủ tư cách để nói về viết lách, cho đến gần đây, bài viết về thất bại trong khởi nghiệp của tôi [đã nhận được sự quan tâm lớn](https://zhuanlan.zhihu.com/p/653380203). Tôi đã nhận được nhiều phản hồi mạnh mẽ, điều này khiến tôi cảm động và khích lệ, và quyết định hoàn thành chương bị bỏ lỡ này.
 
-![Nhận xét tốt](/assets/nice-comment.png)
+![Nhận xét tốt](../assets/nice-comment.png)
 
 Viết lách vừa là một khả năng, vừa là một nghệ thuật. Nó có thể giúp bạn diễn đạt ý tưởng và cảm xúc, truyền bá kiến thức và trí tuệ, đồng thời mang lại cho bạn niềm vui sáng tạo và thành tựu, góp phần giá trị và ý nghĩa. Để viết được những bài viết hay, không phải là chuyện một sớm một chiều. Dựa trên nhiều bài viết và video được đánh giá cao trên thị trường hiện nay, bài viết này không thảo luận về tài liệu học thuật mà tập trung vào viết lách cho đại chúng, tôi cho rằng các yếu tố sau đây là đáng để thảo luận.
 
-![Tham khảo YouTube](/assets/writing-skills.png)
+![Tham khảo YouTube](../assets/writing-skills.png)
 
 ## Đọc
 
@@ -29,8 +29,8 @@ Giao tiếp là chất xúc tác cho viết lách, nó giúp bạn nhận đư�
 Việc sử dụng AI để viết lại bài viết là một hiện tượng mới mẻ và thú vị, nó cho thấy khả năng và giá trị tiềm năng của trí tuệ nhân tạo trong lĩnh vực ngôn ngữ, cũng như gợi mở những suy nghĩ và thảo luận về bản chất và ý nghĩa của viết lách. Sử dụng các công cụ này có thể giúp chúng ta phát hiện một số vấn đề, bạn có thể tham khảo ý kiến sửa đổi và thực hiện theo.
 
 > Ví dụ, bài viết này đã hỏi ý kiến sửa đổi từ AI
-> ![New Bing](/assets/chatgpt.png)
-> ![AIGC](/assets/aigc.png)
+> ![New Bing](../assets/chatgpt.png)
+> ![AIGC](../assets/aigc.png)
 
 ## Đổi Mới
 
