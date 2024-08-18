@@ -31,180 +31,183 @@ Ví dụ: 'cat' => 'con mèo'; phần mềm học từ sẽ cung cấp cho bạn
 
 ![cat.jpg](https://ooo.0o0.ooo/2017/06/01/592f5682b7c4e.jpg)
 
-但是这可能并不是你理解的猫，因为在其实你的脑海里有一个你抽象后的形象代表猫，他可能是这样的:
+Nhưng có thể đây không phải là hình ảnh con mèo mà bạn hiểu, vì trong thực tế, trong tâm trí bạn có một hình ảnh trừu tượng đại diện cho con mèo, nó có thể là như thế này:
 
 ![cat-2.jpeg](https://ooo.0o0.ooo/2017/06/01/592f576499947.jpeg)
 
-也可能是这样的:
+Nó cũng có thể trông như thế này:
 
 ![cat-cartoons.jpeg](https://ooo.0o0.ooo/2017/06/01/592f58e70bd20.jpeg)
 
-也可能是这样的:
+Nó cũng có thể trông như thế này:
 
 ![cat-s.jpg](https://ooo.0o0.ooo/2017/06/01/592f5966b14cb.jpg)
 
-也可能是这样的:
+Nó cũng có thể trông như thế này:
 
 ![cat-ss.jpg](https://ooo.0o0.ooo/2017/06/01/592f59e1f2b57.jpg)
 
-甚至是这样的（他会是你所能手绘出来的图像）:
+Hoặc thậm chí một cái gì đó như thế này (có thể là thứ bạn có thể vẽ bằng tay):
 
 ![cat-sss.jpg](https://ooo.0o0.ooo/2017/06/01/592f5a1aa430f.jpg)
 
-当然也有可能是这样的:
+Tất nhiên là cũng có thể:
 
 ![cat-girl.jpg](https://ooo.0o0.ooo/2017/06/01/592f5b1774ed2.jpg)
 
-将单词通过 _抽象_ 的方法去视觉化可以更好帮助你将单词与单词的涵义联系起来。
+Hình dung các từ thông qua phương pháp _abstract_ có thể giúp bạn kết nối các từ với nghĩa của chúng tốt hơn.
 
 ---
 
-听觉型学习者在学习语言的时候有着天然的优势，通过大量的 _听_ 来学习是更接近自然的语言学习的。如果你发现你属于听觉型学习者，那么你很幸运，你在学习英语方面会比常人轻松很多。
-然后大部分听觉型学习者并不了解听觉型学习的正确方法，在他们意识到自己属于听觉型学习者的时候很可能已经养成的视觉型学习的习惯。
-听觉型学习者想要充分利用自身优势的话，必须掌握 _发音_ 方面的知识。一旦你拥有了良好的 _发音_ 基础，你就可以将听到的大部分内容转化为拼写正确的单词，然后通过感兴趣的语音内容让学英语如虎添翼。
-所以如果你觉得自己可能属于听觉型学习者的话，一定不要错过本指南的 _发音篇_ 与 _听力篇_。
+Người học theo kiểu thính giác có lợi thế tự nhiên khi học ngôn ngữ, vì việc học qua việc _nghe_ rất gần với cách học ngôn ngữ tự nhiên. Nếu bạn phát hiện mình thuộc nhóm học thính giác, thì bạn thật may mắn, bạn sẽ thấy việc học tiếng Anh dễ dàng hơn nhiều so với người khác.
 
-无论你是听觉型还是视觉型学习者，在学习单词的时候，在条件允许的情况下，请务必用词典听听单词的发音！
+Tuy nhiên, phần lớn người học thính giác không hiểu rõ phương pháp học thính giác đúng cách, và khi họ nhận ra mình thuộc nhóm học thính giác, có thể họ đã hình thành thói quen học theo kiểu thị giác.
 
-> 国内很多技术类教学视频中蹩脚的单词发音真的令人很出戏，而实际上互联网充斥着大量的免费教学视频，他们以英文的形式存在，讲师水平高，发音准确，而且教学内容与时俱进。
+Để tận dụng tối đa lợi thế của mình, người học thính giác cần phải nắm vững kiến thức về _phát âm_. Một khi bạn có nền tảng _phát âm_ tốt, bạn có thể chuyển đổi hầu hết nội dung nghe được thành từ viết đúng và sau đó dùng các nội dung âm thanh mà bạn quan tâm để làm việc học tiếng Anh của bạn hiệu quả hơn.
 
-Ronnie 老师有一篇关于记单词的视频，[YouTube 链接](https://www.youtube.com/watch?v=JuoqE2lpRUM) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQyMDgzNg==.html)
+Vì vậy, nếu bạn nghĩ mình có thể thuộc nhóm học thính giác, đừng bỏ qua phần _Phát âm_ và _Nghe_ của hướng dẫn này.
 
-### 两种背单词的方法
+Dù bạn là người học thính giác hay thị giác, khi học từ vựng, nếu có điều kiện, hãy chắc chắn rằng bạn nghe phát âm của từ đó qua từ điển!
 
-#### 第一种 每天适量背诵
+> Nhiều video giáo dục công nghệ trong nước có phát âm từ vựng kém thực sự gây khó chịu, trong khi thực tế, internet tràn ngập các video giáo dục miễn phí, chúng có sẵn bằng tiếng Anh, với giảng viên có trình độ cao, phát âm chính xác và nội dung giảng dạy cập nhật.
 
-##### 优点：
+Ronnie Giáo viên có một video về việc ghi nhớ các từ，[YouTube 链接](https://www.youtube.com/watch?v=JuoqE2lpRUM) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQyMDgzNg==.html)
 
-- 时间分配灵活且占用短（适合利用地铁时间、睡前等零散时间）
-- 负担轻
-- 不易产生挫败感
-- 适用于学习核心词汇
+### Hai phương pháp học từ vựng
 
-##### 缺点：
+#### Phương pháp đầu tiên: Học từ vựng đều đặn mỗi ngày
 
-由于 **背单词的回报率是递减的且通常没有有效的正反馈** ，实际情况往往是背到 800 个选择放弃，背到 1000 个选择放弃，背到 1001 个选择放弃。
+##### Ưu điểm:
 
-#### 第二种 超量输入
+- Phân bổ thời gian linh hoạt và ngắn gọn (thích hợp để sử dụng trong thời gian rảnh như khi đi tàu điện ngầm, trước khi ngủ, v.v.)
+- Gánh nặng nhẹ
+- Ít gây cảm giác thất bại
+- Phù hợp với việc học từ vựng cốt lõi
 
-通过背诵大量的单词并快速复习，遗忘率虽然相对于定量背诵高，但是可以以量取胜。
-比如:一天背 20 个词，一个月能背 600 个，假设形成长期记忆的占 80%，那最后能记住的便是 480 个。
-但是如果我用相同时间，每天快速看 100 个词，一个月能看 3000 个。假设能记住 30%，最后能记住 900 个，远远大于第一种方式。
-适用于在 1000~7000 词汇量这个学习阶段。
+##### Nhược điểm:
 
-> 当你的词汇量在超过 7000 的时候，你应该具备了通过词法和语境去学习'新的单词'的技能，具体的做法会在以后的章节详解。
-> 这两种方法的具体适用情况请根据个人学习习惯来定。
+Do **tỷ lệ lợi ích từ việc học từ vựng giảm dần và thường không có phản hồi tích cực hiệu quả**, tình hình thực tế thường là học đến 800 từ thì bỏ cuộc, học đến 1000 từ thì bỏ cuộc, học đến 1001 từ thì bỏ cuộc.
 
-### 背单词的技巧
+#### Phương pháp thứ hai: Nhập từ vựng số lượng lớn
 
-- 重复，重复，重复 （无他，唯手熟尔）
-- 使用小纸条、便签 （将单词放在可以经常看到的地方，时不时瞥一眼）
-- 做图像标记 （可以给狗狗做个简笔画）
-- 单词搭配、造句 （语境不仅可以帮你记忆还有助于你更好地使用单词）
-- **大声** 朗读 （还记得某阳疯狂英语么）
-- 将部分单词赋予 **特殊意义**（比如 机器学习、编程、女朋友等）
+Bằng cách học một lượng lớn từ vựng và ôn tập nhanh chóng, tỷ lệ quên dù cao hơn so với học định lượng, nhưng có thể bù đắp bằng khối lượng.
+Ví dụ: học 20 từ mỗi ngày, trong một tháng có thể học 600 từ. Giả sử 80% trong số đó trở thành trí nhớ lâu dài, thì cuối cùng bạn sẽ nhớ được 480 từ.
+Nhưng nếu tôi sử dụng cùng một khoảng thời gian, mỗi ngày nhanh chóng xem 100 từ, trong một tháng có thể xem 3000 từ. Giả sử có thể nhớ 30%, cuối cùng sẽ nhớ được 900 từ, vượt xa phương pháp đầu tiên.
+Phù hợp với giai đoạn học từ vựng trong khoảng 1000~7000 từ.
 
-### 艾宾浩斯记忆曲线
+> Khi số lượng từ vựng của bạn vượt quá 7000, bạn nên có kỹ năng học 'từ mới' thông qua từ vựng và ngữ cảnh. Các phương pháp cụ thể sẽ được giải thích chi tiết trong các chương sau.
+> Cụ thể, việc áp dụng hai phương pháp này nên dựa trên thói quen học tập cá nhân.
 
-人的记忆周期分为短期记忆和长期记忆，记住一个单词指的是形成长期记忆。
-遗忘曲线（Forgetting curve）是用于表述记忆中的中长期记忆的遗忘率的一种曲线。
-这一曲线最早由心理学家赫尔曼·艾宾浩斯通过自己的实验提出。在这一实验中，艾宾浩斯使用了一些毫无意义的字母组合。通过记忆这些字母组合，并在一系列时间间隔后检查遗忘率，得到了这一曲线。
-因此，这一曲线又叫[艾宾浩斯遗忘曲线](https://zh.wikipedia.org/wiki/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF)。
+### Kỹ thuật học từ vựng
 
-![艾宾浩斯记忆曲线](https://upload.wikimedia.org/wikipedia/commons/4/4e/ForgettingCurve.svg)
+- Lặp lại, lặp lại, lặp lại (không có cách nào khác, chỉ cần luyện tập nhiều)
+- Sử dụng giấy nhớ, thẻ ghi chú (đặt từ vựng ở những nơi bạn thường xuyên nhìn thấy và thường xuyên nhìn qua)
+- Tạo hình ảnh minh họa (ví dụ, vẽ một bức tranh đơn giản cho từ vựng)
+- Kết hợp từ vựng, tạo câu (ngữ cảnh không chỉ giúp bạn ghi nhớ mà còn giúp bạn sử dụng từ vựng tốt hơn)
+- Đọc to (có nhớ đến phương pháp học tiếng Anh của Một Dương không?)
+- Gán một số từ vựng với **ý nghĩa đặc biệt** (như học máy, lập trình, bạn gái, v.v.)
 
-该曲线表明：遗忘进程是不均衡的，在识记的最初遗忘很快，以后逐渐缓慢，到了相当的时间，几乎就不再遗忘了，也就是遗忘的发展是“先快后慢”。
-遗忘的进程不仅受时间因素的制约，也受其他因素的制约。学生最先遗忘的是没有重要意义的、不感兴趣、不需要的材料。不熟悉的比熟悉的遗忘的要早。一般记住后，在 5 分钟后重复一遍，20 分钟后再重复一遍，1 小时后，12 小时后，1 天后，2 天后，5 天后，8 天后，14 天后就会记得很牢：
+### Đường cong trí nhớ của Ebbinghaus
 
-#### 先把单词比看成简单的 _键值对_
+Chu kỳ trí nhớ của con người bao gồm trí nhớ ngắn hạn và trí nhớ dài hạn, việc nhớ một từ có nghĩa là hình thành trí nhớ dài hạn.
+Đường cong quên (Forgetting curve) được sử dụng để mô tả tỷ lệ quên trong trí nhớ trung và dài hạn.
+Đường cong này lần đầu tiên được nhà tâm lý học Hermann Ebbinghaus đưa ra thông qua các thí nghiệm của ông. Trong các thí nghiệm này, Ebbinghaus sử dụng các tổ hợp chữ cái vô nghĩa. Bằng cách ghi nhớ các tổ hợp chữ cái này và kiểm tra tỷ lệ quên sau một loạt khoảng thời gian, ông đã tạo ra đường cong này.
+Vì vậy, đường cong này còn được gọi là [Đường cong quên của Ebbinghaus](https://zh.wikipedia.org/wiki/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF).
 
-'英语单词'=>'对应的汉语释义（更多的情况下是数组）'，尝试直接记忆这样键值对：
+![Đường cong trí nhớ của Ebbinghaus](https://upload.wikimedia.org/wikipedia/commons/4/4e/ForgettingCurve.svg)
 
-- 第一个记忆周期是 5 分钟 （早上花五分钟的时间学习 10 个新词试试）
-- 第二个记忆周期是 30 分钟 （半小时后，先花 5 分钟去复习刚才学习的 10 个新词，然后再花 5 分钟的时间去学习 10 个新词）
-- 第三个记忆周期是 12 小时 （睡前再花 15 分钟左右的时间来复习一下今天学习的 20 个单词吧）
-  > 这三个记忆周期属于短期记忆的范畴(学习与复习所用的时间只是一个大概的数值，请根据自己的习惯来调整)
+Đường cong này cho thấy: quá trình quên không đồng đều, trong giai đoạn đầu của việc ghi nhớ, quên rất nhanh, sau đó giảm dần và đến một thời điểm nhất định, việc quên gần như không còn nữa, tức là quá trình quên là “nhanh lúc đầu, chậm dần sau”.
+Quá trình quên không chỉ bị ảnh hưởng bởi yếu tố thời gian mà còn bởi các yếu tố khác. Những gì học sinh dễ quên nhất là các tài liệu không quan trọng, không thú vị hoặc không cần thiết. Các thông tin không quen thuộc sẽ bị quên sớm hơn các thông tin quen thuộc. Thông thường, sau khi ghi nhớ, lặp lại một lần sau 5 phút, lặp lại lần nữa sau 20 phút, 1 giờ, 12 giờ, 1 ngày, 2 ngày, 5 ngày, 8 ngày, và 14 ngày sẽ giúp nhớ lâu hơn.
 
-> 下面几个属于关键的周期:
+#### Hãy coi từ vựng như các _cặp khóa-giá trị_ đơn giản
 
-- 第四个记忆周期是 1 天
-- 第五个记忆周期是 2 天
-- 第六个记忆周期是 4 天
-- 第七个记忆周期是 7 天
-- 第八个记忆周期是 15 天
+'Từ vựng tiếng Anh' => 'Giải nghĩa tiếng Trung tương ứng (thường là một mảng)' và cố gắng nhớ trực tiếp các cặp khóa-giá trị như vậy:
 
-以上的 8 个周期应用于背单词，作为一个大的背词的循环的 8 个复习点，可以最大程度的提高背单词的效率。所以，制定一个记忆计划，利用记忆曲线的规律，去复习单词，从而形成长期记忆。用 14 天的时间试试吧，我想结果会让你惊讶的。
+- Chu kỳ nhớ đầu tiên là 5 phút (dành 5 phút vào buổi sáng để học 10 từ mới)
+- Chu kỳ nhớ thứ hai là 30 phút (sau nửa giờ, dành 5 phút để ôn lại 10 từ mới đã học, sau đó dành 5 phút để học thêm 10 từ mới)
+- Chu kỳ nhớ thứ ba là 12 giờ (trước khi đi ngủ, dành khoảng 15 phút để ôn lại 20 từ học trong ngày)
+  > Ba chu kỳ nhớ này thuộc về trí nhớ ngắn hạn (thời gian học và ôn lại chỉ là một giá trị ước lượng, hãy điều chỉnh theo thói quen của bạn)
 
-#### 举个我个人实战的例子：
+> Một số chu kỳ quan trọng khác:
 
-高中时具体的做法是：因为当时学校是 10 本书一起发下来的，所以我就花了大概 3 节课的时间把这 10 本书的所有单词过一遍，然后把记不住的全部誊抄下来。
-然后我就拥有了一个单词本，之后就经常翻单词本咯。
-每一次复习，如果某个单词确定自己掌握了，形成了长期记忆，那就将这个单词从单词本中划掉。
-你甚至可以在单词附近做一些记号，比如用 三角形 代表"这是个有趣的单词"，圆 代表"这是最近看的某本书或某个视频里面的"，耳朵 符号表示"发音比较没把握"等：
+- Chu kỳ nhớ thứ tư là 1 ngày
+- Chu kỳ nhớ thứ năm là 2 ngày
+- Chu kỳ nhớ thứ sáu là 4 ngày
+- Chu kỳ nhớ thứ bảy là 7 ngày
+- Chu kỳ nhớ thứ tám là 15 ngày
 
-![单词本示意图.jpg](https://ooo.0o0.ooo/2017/06/05/593516103b8a9.jpg)
+Tám chu kỳ trên được áp dụng để học từ vựng, tạo thành một chu trình lớn của việc ôn tập từ vựng, giúp tối đa hóa hiệu quả học từ. Do đó, hãy lập kế hoạch nhớ từ vựng, sử dụng quy luật của đường cong trí nhớ để ôn tập từ vựng, từ đó hình thành trí nhớ dài hạn. Hãy thử trong vòng 14 ngày, tôi nghĩ kết quả sẽ khiến bạn ngạc nhiên.
 
-这个习惯我一直保留至今(从 2010 年 12 开始)，只不过我不再用纸质的本子，而是将其同步到了词典软件上，每天午休期间和晚上健身后翻翻。
-我搭配使用上面介绍的两种背单词的方法，因为当你的单词本单词达到 500 甚至更多的时候，你需要尽可能复习更多的单词。
-不然就准备两本词典，经常翻吧。
-![字典](../assets/dict.JPG)
+#### Ví dụ thực tế của tôi:
 
-> 厚重的字典携带起来是极为不便的，还是给自己准备一套顺手的词典软件吧。
-> 图中两本词典我用了很久，已经坏掉了。
+Khi học trung học, tôi đã làm như sau: vì lúc đó trường phát cho chúng tôi 10 cuốn sách cùng lúc, tôi đã dành khoảng 3 tiết học để xem tất cả các từ trong 10 cuốn sách này, sau đó sao chép lại những từ mình không nhớ được.
+Và tôi đã có một cuốn sổ từ vựng, sau đó thường xuyên lật lại cuốn sổ từ vựng đó.
+Mỗi lần ôn tập, nếu một từ nào đó bạn chắc chắn đã nắm vững và đã trở thành trí nhớ dài hạn, hãy gạch bỏ từ đó khỏi cuốn sổ từ vựng.
+Bạn thậm chí có thể đánh dấu gần từ, ví dụ: dùng hình tam giác để đại diện cho "đây là từ thú vị", hình tròn để đại diện cho "đây là từ trong cuốn sách hoặc video gần đây", biểu tượng tai để biểu thị "phát âm chưa chắc chắn", v.v.:
 
-## 使用云单词本
+![Hình minh họa cuốn sổ từ vựng](https://ooo.0o0.ooo/2017/06/05/593516103b8a9.jpg)
 
-**云单词本的作用是集中管理生词以便随时复习!**
+Thói quen này tôi vẫn giữ cho đến ngày nay (bắt đầu từ tháng 12 năm 2010), chỉ là tôi không còn sử dụng sổ giấy nữa mà đã đồng bộ hóa nó lên phần mềm từ điển, và thường xuyên xem lại vào giờ nghỉ trưa và sau khi tập thể dục vào buổi tối.
+Tôi kết hợp sử dụng hai phương pháp học từ vựng đã được giới thiệu ở trên, vì khi số lượng từ trong cuốn sổ từ vựng của bạn đạt 500 từ hoặc nhiều hơn, bạn cần ôn tập càng nhiều từ càng tốt.
+Nếu không, hãy chuẩn bị hai cuốn từ điển và thường xuyên lật lại nhé.
+![Từ điển](../assets/dict.JPG)
 
-无论是在哪里遇到的生词，请一定要集中放到一个可以多终端同步的生词本里，不然之后你去哪找那些遇见的生词呢？
-至于我使用的是哪个词典软件，就不打广告了，只要是拥有多端同步的 app 对我而言都差不多。放张截图：
+> Những từ điển dày cộp rất bất tiện khi mang theo, tốt hơn là chuẩn bị cho mình một bộ phần mềm từ điển tiện dụng.
+> Hai cuốn từ điển trong hình tôi đã sử dụng rất lâu, và đã bị hỏng.
 
-![单词本截图.png](../assets/word-list-app.png)
+## Sử dụng từ điển đám mây
 
-你可以看到，有些单词就算复习了 7 年，还是不敢确定自己是完全记住的。
+**Từ điển đám mây có tác dụng quản lý từ mới một cách tập trung để dễ dàng ôn tập bất cứ lúc nào!**
 
-#### 把单词当成 _对象_
+Dù bạn gặp từ mới ở đâu, hãy chắc chắn tập trung vào một cuốn từ điển có khả năng đồng bộ nhiều thiết bị, nếu không thì bạn sẽ khó tìm lại những từ mới đã gặp sau này.
+Về phần mềm từ điển tôi sử dụng, tôi không quảng cáo, miễn là ứng dụng có khả năng đồng bộ nhiều thiết bị là phù hợp với tôi. Đây là một ảnh chụp màn hình:
 
-> 如果你并不了解 _面向对象_ 的概念可以选择跳过本小节或者先去了解相关的概念
+![Ảnh chụp màn hình từ điển](../assets/word-list-app.png)
 
-你可能会发现有些单词是在一些'基础单词'之上经过'特定的规则进行变化'得到的，这和面向对象编程的思想有着异曲同工之妙。
-我们可以把这种特性看成是 "继承"与"多态"，那么我们要学习的其实是 _扩展的方法_，而不是将这些变化后的单词当成是新的单词来背诵。
+Bạn có thể thấy, một số từ dù đã ôn tập 7 năm rồi, tôi vẫn không dám chắc rằng mình đã hoàn toàn nhớ được.
 
-> 单词学习与背单词并不是等价的，这意味着我们可以采用更好的方法去学习单词
+#### Xem từ vựng như _đối tượng_
 
-## Anki 背单词软件
+> Nếu bạn không hiểu khái niệm _hướng đối tượng_, có thể bỏ qua phần này hoặc tìm hiểu trước về khái niệm liên quan
 
-[Anki 是一款多平台的背单词 app](https://apps.ankiweb.net/)，Anki 使记忆变得更加容易，它可以一个自定义多功能的记忆方式，减少学习时间，提升你的学习容量，提高学习效率。
+Bạn có thể nhận thấy rằng một số từ được biến đổi từ các 'từ cơ bản' theo những 'quy tắc cụ thể', điều này tương tự như tư tưởng lập trình hướng đối tượng.
+Chúng ta có thể coi đặc điểm này như là "kế thừa" và "đa hình". Vậy cái chúng ta cần học thực ra là _các phương pháp mở rộng_, thay vì coi những từ đã biến đổi này là từ mới để học thuộc.
 
-为了帮助大家更方便地背诵高频词汇，在此分享一份「麦克米伦 7000 词汇」Anki 卡（感谢 赛门喵 Simon 的优化），特色如下：
+> Học từ vựng và học thuộc từ không phải là một và giống nhau, điều này có nghĩa là chúng ta có thể sử dụng những phương pháp tốt hơn để học từ vựng.
 
-- 添加音标
-- 添加例句
-- 添加图片
-- 添加例句翻译
+## Phần mềm học từ vựng Anki
 
-链接: https://pan.baidu.com/s/1i5OLIIT 密码: jm4k
+[Anki là một ứng dụng học từ vựng đa nền tảng](https://apps.ankiweb.net/), Anki làm cho việc ghi nhớ trở nên dễ dàng hơn với cách ghi nhớ tùy chỉnh đa chức năng, giảm thời gian học, nâng cao khả năng học tập và cải thiện hiệu quả học tập của bạn.
 
-因为上面卡牌包制作时间久远，在一些移动平台会出现[#76](https://github.com/byoungd/English-level-up-tips-for-Chinese/issues/76)问题，更新如下：
+Để giúp các bạn học từ vựng thường gặp một cách dễ dàng hơn, tôi chia sẻ một bộ thẻ Anki "Macmillan 7000 từ vựng" (cảm ơn sự tối ưu hóa của Simon). Các đặc điểm nổi bật bao gồm:
 
-- 修改了词牌样式，减小字号，调整背面答案字段顺序等，以适配移动端应用
-- 通过[Localize Media](https://ankiweb.net/shared/info/1293255374)插件离线所有图片等资源。
+- Thêm ký hiệu phát âm
+- Thêm câu ví dụ
+- Thêm hình ảnh
+- Thêm bản dịch câu ví dụ
 
-## 推荐的单词书
+Liên kết: [https://pan.baidu.com/s/1i5OLIIT](https://pan.baidu.com/s/1i5OLIIT) Mật khẩu: jm4k
 
-- [![英语常用词疑难用法手册](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
-- [![17天搞定GRE单词](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
+Vì bộ thẻ trên được tạo ra khá lâu, một số vấn đề có thể xuất hiện trên các nền tảng di động [#76](https://github.com/byoungd/English-level-up-tips-for-Chinese/issues/76), các cập nhật bao gồm:
+
+- Đã chỉnh sửa kiểu thẻ, giảm kích thước chữ, điều chỉnh thứ tự các trường đáp án mặt sau, v.v., để phù hợp với ứng dụng di động
+- Sử dụng plugin [Localize Media](https://ankiweb.net/shared/info/1293255374) để lưu trữ tất cả hình ảnh và tài nguyên ngoại tuyến.
+
+## Sách từ vựng được đề xuất
+
+- [![Sổ tay cách dùng từ khó phổ biến trong tiếng Anh](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
+- [![17 ngày làm chủ từ vựng GRE](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
 - [![Merriam-Webster's Vocabulary Builder](https://img3.doubanio.com/lpic/s4339900.jpg)](https://book.douban.com/subject/4759840/)
 
-  这本书适合具有一定词汇量基础的人（大约 7000），也是备考托福和 GRE 时被推荐较多的词法书，俗称韦氏小绿书。
-  在很多人的印象里面，韦氏小绿书似乎就是一本用来记词根词缀的书，但这本书真正的价值并不在于此。
-  韦氏小绿书虽然提供了 250 个词根，但这些词根在实用价值上并不大。
-  这本书最大的好处在于提供了一个通过语境记单词的方法。
-  人脑并不擅长记忆分散的没有逻辑联系的事物，只有将单词放在一个个具体的语境中，我们才能理解以及使用它。
-  秉承这一思想，韦氏小绿书对于单词的诠释分为三个部分：英文释义，例句以及作者对于单词的个性化说明。
-  除了别具一格的单词解读之外，韦氏小绿书安排了大量的巩固测试题，而且这些测试并不只是简单考单词的含义，而是考察单词在语境中的具体使用以及对形近词的辨析。
-  在你拥有一定词汇量的时候希望不要错过这本小绿书。
+  Cuốn sách này phù hợp với những người đã có nền tảng từ vựng cơ bản (khoảng 7000 từ) và thường được khuyên dùng khi chuẩn bị cho TOEFL và GRE, thường được gọi là sách nhỏ màu xanh của Webster.
+  Trong ấn tượng của nhiều người, sách nhỏ màu xanh của Webster có vẻ như chỉ là một cuốn sách để học từ gốc và tiền tố, nhưng giá trị thực sự của cuốn sách này không chỉ nằm ở đó.
+  Mặc dù sách cung cấp 250 từ gốc, nhưng giá trị thực dụng của chúng không lớn.
+  Lợi ích lớn nhất của cuốn sách này là cung cấp một phương pháp học từ vựng thông qua ngữ cảnh.
+  Não bộ của con người không giỏi ghi nhớ những thứ rời rạc và không có liên kết, chỉ khi từ vựng được đặt trong các ngữ cảnh cụ thể, chúng ta mới có thể hiểu và sử dụng chúng.
+  Theo tinh thần này, cuốn sách nhỏ màu xanh của Webster chia việc giải thích từ vựng thành ba phần: định nghĩa bằng tiếng Anh, câu ví dụ và giải thích cá nhân của tác giả về từ.
+  Ngoài việc giải thích từ vựng độc đáo, cuốn sách còn có nhiều bài kiểm tra củng cố, và các bài kiểm tra này không chỉ đơn giản là kiểm tra ý nghĩa từ vựng, mà còn đánh giá việc sử dụng từ trong ngữ cảnh và phân biệt các từ gần nghĩa.
+  Khi bạn đã có một lượng từ vựng cơ bản, hy vọng bạn sẽ không bỏ lỡ cuốn sách nhỏ màu xanh này.
 
-> 背单词的时候大多数时候不需要刻意的去记，简单的过一下就行，生词，**生** 词嘛，多过过，自然而然就熟悉了
+> Khi học từ vựng, phần lớn thời gian bạn không cần phải cố gắng nhớ một cách cố ý, chỉ cần lướt qua một cách đơn giản, từ mới, **từ mới** mà thôi, lặp lại nhiều lần, tự nhiên bạn sẽ quen thuộc với chúng.
 
-下一篇：[听力篇](3-listening.md)
+Bài viết tiếp theo：[Nghe](3-listening.md)

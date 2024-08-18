@@ -30,7 +30,7 @@ Tôi chân thành mong rằng mọi người có thể **yêu thích** việc h�
 
 The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
 
-> > > Thành công lớn nhất chỉ có thể đạt được bằng cách yêu thích công việc của mình. Nếu bạn chưa tìm thấy công việc mà mình yêu thích, hãy tiếp tục tìm kiếm, đừng từ bỏ. Hãy lắng nghe trái tim mình, một ngày nào đó bạn sẽ tìm thấy nó.
+> Thành công lớn nhất chỉ có thể đạt được bằng cách yêu thích công việc của mình. Nếu bạn chưa tìm thấy công việc mà mình yêu thích, hãy tiếp tục tìm kiếm, đừng từ bỏ. Hãy lắng nghe trái tim mình, một ngày nào đó bạn sẽ tìm thấy nó.
 
 **Niềm đam mê đối với việc học** cũng tương tự như vậy.
 
